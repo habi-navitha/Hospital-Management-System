@@ -1,5 +1,5 @@
 # HOSPITAL MANAGEMENT SYSTEM
-Designed to streamline hospital operations with a user-friendly interface that allows management of appointments, prescriptions, medications, patients, and doctors.
+The Hospital Management application is a Java-based system designed to streamline hospital operations with a user-friendly GUI that allows management of appointments, prescriptions, medications, patients, and doctors. It features an efficient integration with data handling, ensuring smooth and effective hospital management.
 # TECH STACK
 1. Java
 2. SQL
