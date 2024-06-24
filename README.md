@@ -1,4 +1,5 @@
 # HOSPITAL MANAGEMENT SYSTEM
+Designed to streamline hospital operations with a user-friendly interface that allows management of appointments, prescriptions, medications, patients, and doctors.
 # TECH STACK
 1. Java
 2. SQL
